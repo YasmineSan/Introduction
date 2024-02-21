@@ -1,9 +1,9 @@
 Introduction
 ============
 
-### Hello YOU ! 
+### Hello YOU ! 🖖
 
-I'm learning code at Becode in Web Dev Jr. I want to be a full stack 
+I'm learning code at Becode in Web Dev Jr. 🤷‍♀️ I want to be a full stack 🙋‍♀️ . 
 
 
 > This is de JavaScript Month!  
